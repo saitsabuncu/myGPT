@@ -100,18 +100,40 @@ Aşağıdaki tablo, farklı revizyon türlerinde AI’dan neler istenebileceğin
 
 ## 📌 Advanced Prompt Techniques – Quick Reference  
 
-Aşağıdaki tablo, ChatGPT ile kullanılabilecek gelişmiş prompt tekniklerini örneklerle özetlemektedir.  
+Bu bölümde ChatGPT ile kullanılabilecek gelişmiş prompt teknikleri yer almaktadır.  
+Aşağıdaki tablolar, aynı tekniklerin hem **İngilizce** hem de **Türkçe** örneklerini içerir.  
 
-| #  | Teknik | Amaç | Örnek Prompt |
-|----|---------|------|--------------|
-| 1  | **Chaining Prompts** | Karmaşık görevleri küçük adımlara bölmek | ✅ “Search for recent articles on renewable energy…” → “Select one article…” → “Summarize the key points…” |
-| 2  | **Context Layering** | Bağlamı katman katman inşa ederek derinleştirmek | ✅ “Explain quantum computing in simple terms.” → “Now, what are its applications in cybersecurity?” |
-| 3  | **Creative Storytelling** | Yaratıcı hikâyeler ve senaryolar oluşturmak | ✅ “Write a story where AI becomes the government, exploring pros & cons.” |
-| 4  | **Counterfactual Thinking** | “Ya şöyle olsaydı?” tarzı alternatif senaryolar keşfetmek | ✅ “What if the internet had never been invented? How would society change?” |
-| 5  | **Role-Playing** | Belirli rol, karakter veya bakış açısıyla cevap almak | ✅ “Write a dialogue between a climate activist and an oil CEO.” |
-| 6  | **Analogies & Metaphors** | Karmaşık konuları benzetmelerle açıklamak | ✅ “Explain a black hole using an analogy for high school students.” |
-| 7  | **Sequential Learning** | Öğrenmeyi adım adım ilerletmek | ✅ “What are the principles of economics?” → “How do they apply to supply/demand?” → “Give a real-world example.” |
-| 8  | **Error Correction** | Hataları bulmak, düzeltmek ve geliştirme önerileri almak | ✅ “Here’s a summary on renewable energy. Can you identify errors and suggest improvements?” |
-| 9  | **Interactive Storylines** | Kullanıcı seçimleriyle gelişen hikâyeler kurmak | ✅ “Start a space adventure. After each paragraph, I’ll decide what happens next.” |
-| 10 | **Predictions & Forecasts** | Geleceğe dair öngörüler üretmek | ✅ “Based on current trends, what are the top 3 tech advancements of the next decade?” |
+---
+
+## 🌍 English Version – Quick Reference  
+
+| #  | Technique | Purpose | Example Prompt |
+|----|-----------|---------|----------------|
+| 1  | **Chaining Prompts** | Break complex tasks into smaller steps | ✅ “Search for recent articles on renewable energy…” → “Select one article…” → “Summarize the key points…” |
+| 2  | **Context Layering** | Build context step by step | ✅ “Explain quantum computing in simple terms.” → “Now, what are its applications in cybersecurity?” |
+| 3  | **Creative Storytelling** | Generate creative stories and scenarios | ✅ “Write a story where AI becomes the government, exploring pros & cons.” |
+| 4  | **Counterfactual Thinking** | Explore alternative “what if” scenarios | ✅ “What if the internet had never been invented? How would society change?” |
+| 5  | **Role-Playing** | Answer from a role/character perspective | ✅ “Write a dialogue between a climate activist and an oil CEO.” |
+| 6  | **Analogies & Metaphors** | Explain concepts with analogies/metaphors | ✅ “Explain a black hole using an analogy for high school students.” |
+| 7  | **Sequential Learning** | Lead through a step-by-step learning process | ✅ “What are the principles of economics?” → “How do they apply to supply/demand?” → “Give a real-world example.” |
+| 8  | **Error Correction** | Identify errors and suggest improvements | ✅ “Here’s a summary on renewable energy. Can you identify errors and suggest improvements?” |
+| 9  | **Interactive Storylines** | Create user-driven evolving stories | ✅ “Start a space adventure. After each paragraph, I’ll decide what happens next.” |
+| 10 | **Predictions & Forecasts** | Generate future predictions and forecasts | ✅ “Based on current trends, what are the top 3 tech advancements of the next decade?” |
+
+---
+
+## 🇹🇷 Türkçe Versiyon – Hızlı Bakış  
+
+| #  | Teknik | Amaç | Türkçe Örnek Prompt |
+|----|---------|------|----------------------|
+| 1  | **Chaining Prompts** | Karmaşık görevleri küçük adımlara bölmek | ✅ “Yenilenebilir enerji hakkında güncel makaleler ara.” → “Bir tanesini seç ve oku.” → “Makalenin ana noktalarını özetle.” |
+| 2  | **Context Layering** | Bağlamı katman katman inşa ederek derinleştirmek | ✅ “Kuantum bilgisayarları basit terimlerle açıkla.” → “Peki, siber güvenlikte gelecekteki uygulamaları neler olabilir?” |
+| 3  | **Creative Storytelling** | Yaratıcı hikâyeler ve senaryolar oluşturmak | ✅ “Yapay zekânın hükümet olduğu bir hikâye yaz, avantajlarını ve zorluklarını da anlat.” |
+| 4  | **Counterfactual Thinking** | “Ya şöyle olsaydı?” tarzı alternatif senaryolar keşfetmek | ✅ “Eğer internet hiç icat edilmemiş olsaydı, bugünkü toplum nasıl olurdu?” |
+| 5  | **Role-Playing** | Belirli rol, karakter veya bakış açısıyla cevap almak | ✅ “Bir çevre aktivisti ile petrol şirketi CEO’su arasında geçen çevre politikası diyaloğu yaz.” |
+| 6  | **Analogies & Metaphors** | Karmaşık konuları benzetmelerle açıklamak | ✅ “Bir lise öğrencisine uygun bir benzetme kullanarak kara deliği açıkla.” |
+| 7  | **Sequential Learning** | Öğrenmeyi adım adım ilerletmek | ✅ “Ekonominin temel prensipleri nelerdir?” → “Bu prensipler arz-talep kavramına nasıl uygulanır?” → “Gerçek hayattan bir örnek verir misin?” |
+| 8  | **Error Correction** | Hataları bulmak, düzeltmek ve geliştirme önerileri almak | ✅ “İşte yenilenebilir enerji kaynaklarıyla ilgili bir özet. Hataları bulup geliştirme önerir misin?” |
+| 9  | **Interactive Storylines** | Kullanıcı seçimleriyle gelişen hikâyeler kurmak | ✅ “Bir uzay macerası hikâyesi başlat. Her paragraftan sonra ana karakterin ne yapacağına ben karar vereceğim.” |
+| 10 | **Predictions & Forecasts** | Geleceğe dair öngörüler üretmek | ✅ “Mevcut teknoloji trendlerine göre, önümüzdeki 10 yılda öne çıkacak 3 büyük gelişme ne olur?” |
 
