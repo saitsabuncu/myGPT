@@ -49,3 +49,21 @@ Aşağıdaki tablo, etkili prompt oluşturmak için kullanılabilecek genel çer
 | 3 | **Open-Ended Exploration** | Geniş, yaratıcı ve farklı olasılıkları araştırmayı teşvik eder. | ✅ “What might be some unexpected consequences of colonizing Mars?” |
 | 4 | **Skill Demonstration** | AI’dan belirli bir becerisini veya uzmanlığını sergilemesini ister. | ✅ “As a chess instructor, analyze the 1972 game between Bobby Fischer and Boris Spassky, focusing on key moves and strategies.” |
 | 5 | **Hypothetical Scenario** | Varsayımsal senaryolar üzerinden olası sonuçları keşfeder. | ✅ “Imagine if the internet was shut down worldwide for a month. How might this affect global communication and business?” |
+
+## 📌 Focused Prompt Frameworks – Quick Reference
+
+Aşağıdaki tablo, farklı kullanım amaçlarına göre odaklı prompt framework’lerini örnekleriyle özetlemektedir.
+
+| # | Framework | Amaç | Örnek Prompt |
+|---|-----------|------|--------------|
+| 1 | **Information Retrieval** | Belirli bilgi/faktörleri öğrenmek | ✅ “What are the key differences between Python and JavaScript in terms of syntax and use-cases?” |
+| 2 | **Creative Generation** | Orijinal, yaratıcı içerik üretmek | ✅ “Create a short story set in a futuristic city where technology controls nature, focusing on a protagonist who rebels against this system.” |
+| 3 | **Problem-Solving** | Belirli bir soruna çözüm/strateji bulmak | ✅ “I'm struggling to increase engagement on my educational YouTube channel. What are some effective strategies to boost viewer interaction and retention?” |
+| 4 | **Learning & Explanation** | Kavramları anlaşılır şekilde açıklamak | ✅ “Explain the concept of gravitational pull to a 10-year-old without using complex physics terms.” |
+| 5 | **Opinion & Analysis** | Görüş, değerlendirme veya analiz almak | ✅ “Analyze the impact of social media on modern communication, focusing on both its benefits and drawbacks.” |
+| 6 | **Instructional / How-To** | Adım adım rehber veya talimat vermek | ✅ “Describe the steps involved in baking a chocolate cake for someone who has never baked before.” |
+| 7 | **Comparative Analysis** | Kavramları/teorileri karşılaştırmak | ✅ “Compare the economic policies of Keynesianism and Monetarism, highlighting their main principles and impacts on modern economies.” |
+| 8 | **Scenario Simulation** | Varsayımsal senaryoları keşfetmek | ✅ “Imagine a scenario where renewable energy has completely replaced fossil fuels by 2050. How would this affect global economies and the environment?” |
+| 9 | **Personal Advice** | Kişisel duruma özel öneriler almak | ✅ “I'm a college student majoring in computer science and feeling overwhelmed. How can I effectively manage my time and reduce stress?” |
+| 10 | **Interactive Storytelling** | Kullanıcı etkileşimine dayalı hikâyeler oluşturmak | ✅ “Start a mystery story set in an abandoned mansion. I'll tell you what choices the main character makes at key points.” |
+
