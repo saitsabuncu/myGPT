@@ -96,3 +96,22 @@ Aşağıdaki tablo, farklı revizyon türlerinde AI’dan neler istenebileceğin
 | 20 | **Executive Summary** | Yönetici özeti hazırlamak | ✅ “Compose a concise executive summary…” | Uzun içeriği kısa bir özet halinde sunması |
 | 21 | **FAQs** | SSS listesi oluşturmak | ✅ “Can you create a list of frequently asked questions…” | İçerikten olası sorular üretip yanıtlaması |
 | 22 | **Persuasive Argument** | İkna edici argüman yazmak | ✅ “Formulate a compelling argument either in support of or against…” | Belirtilen görüşü destekleyen/karşıt argüman geliştirmesi |
+
+
+## 📌 Advanced Prompt Techniques – Quick Reference  
+
+Aşağıdaki tablo, ChatGPT ile kullanılabilecek gelişmiş prompt tekniklerini örneklerle özetlemektedir.  
+
+| #  | Teknik | Amaç | Örnek Prompt |
+|----|---------|------|--------------|
+| 1  | **Chaining Prompts** | Karmaşık görevleri küçük adımlara bölmek | ✅ “Search for recent articles on renewable energy…” → “Select one article…” → “Summarize the key points…” |
+| 2  | **Context Layering** | Bağlamı katman katman inşa ederek derinleştirmek | ✅ “Explain quantum computing in simple terms.” → “Now, what are its applications in cybersecurity?” |
+| 3  | **Creative Storytelling** | Yaratıcı hikâyeler ve senaryolar oluşturmak | ✅ “Write a story where AI becomes the government, exploring pros & cons.” |
+| 4  | **Counterfactual Thinking** | “Ya şöyle olsaydı?” tarzı alternatif senaryolar keşfetmek | ✅ “What if the internet had never been invented? How would society change?” |
+| 5  | **Role-Playing** | Belirli rol, karakter veya bakış açısıyla cevap almak | ✅ “Write a dialogue between a climate activist and an oil CEO.” |
+| 6  | **Analogies & Metaphors** | Karmaşık konuları benzetmelerle açıklamak | ✅ “Explain a black hole using an analogy for high school students.” |
+| 7  | **Sequential Learning** | Öğrenmeyi adım adım ilerletmek | ✅ “What are the principles of economics?” → “How do they apply to supply/demand?” → “Give a real-world example.” |
+| 8  | **Error Correction** | Hataları bulmak, düzeltmek ve geliştirme önerileri almak | ✅ “Here’s a summary on renewable energy. Can you identify errors and suggest improvements?” |
+| 9  | **Interactive Storylines** | Kullanıcı seçimleriyle gelişen hikâyeler kurmak | ✅ “Start a space adventure. After each paragraph, I’ll decide what happens next.” |
+| 10 | **Predictions & Forecasts** | Geleceğe dair öngörüler üretmek | ✅ “Based on current trends, what are the top 3 tech advancements of the next decade?” |
+
