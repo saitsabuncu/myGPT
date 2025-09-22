@@ -9,3 +9,21 @@
 | **3. Purpose & Goal Orientation (Amaç ve Hedef Odaklılık)** | Amacını açıkça belirt (bilgi almak, problem çözmek, yaratıcı içerik, vb.). | ❌ “Bir şiir yaz.” <br> ✅ “İlkbaharın gelişini anlatan, 4 kıtalık, uyaklı bir şiir yaz.” |
 | **4. Structured Approach (Yapılandırılmış Yaklaşım)** | Soruları düzenli bir çerçeveyle sor (liste, adım adım, şablon). | ✅ “Python’da web scraping için: <br> 1. Kullanılacak kütüphaneleri listele. <br> 2. Basit bir örnek kod yaz. <br> 3. En sık karşılaşılan hataları açıkla.” |
 | **5. Iterative Refinement (Adım Adım İyileştirme)** | İlk cevaptan sonra sorunu yeniden düzenle, daha fazla detay iste. | İlk: “Bana yapay zekâ hakkında bilgi ver.” <br> Sonra: “Peki, sağlık alanındaki kullanımına örnek ver.” <br> Daha sonra: “Bu örneği Türkiye’deki uygulamalarla ilişkilendir.” |
+
+## 📌 Prompt Engineering Best Practices – Quick Reference
+
+Below is a quick reference table summarizing the best practices in prompt engineering for effective interactions with AI models.
+
+| # | İlke | Kısa Açıklama | Örnek (Daha Etkili ✅ / Daha Az Etkili ❌) |
+|---|------|---------------|-------------------------------------------|
+| 1 | **Clear & Concise Questions** | Soruları kısa ve net yaz. | ✅ “How do I make spaghetti carbonara?” <br> ❌ “I've been pondering over the possibility of engaging in a culinary activity involving pasta...” |
+| 2 | **Provide Adequate Context** | Bağlam ver, arka planı açıkla. | ✅ “I’m analyzing social media with Python, data collection bitti. Next step?” <br> ❌ “What should I do next in my project?” |
+| 3 | **Be Specific** | Genel değil, özel sorular sor. | ✅ “Explain Python list comprehensions.” <br> ❌ “Tell me about Python.” |
+| 4 | **Closed-Ended Questions** | Net bilgi için kapalı uçlu sorular sor. | ✅ “How many planets are in the solar system?” <br> ❌ “What can you tell me about the solar system?” |
+| 5 | **Open-Ended Questions** | Fikir ve keşif için açık uçlu sorular sor. | ✅ “Brainstorm sci-fi story ideas set in the future.” <br> ❌ “Do you have any story ideas?” |
+| 6 | **Iterative Refinement** | Adım adım promptu geliştir. | ✅ “How can I improve my site?” → “Suggest color schemes for a tech blog.” |
+| 7 | **Avoid Bias** | Tarafsız sor, yönlendirme yapma. | ✅ “What are pros & cons of Python?” <br> ❌ “Why is Python the best language?” |
+| 8 | **Know AI’s Limits** | Yapılabilir şeyler iste. | ✅ “Summarize climate change in 500 words.” <br> ❌ “Write a 10,000-word essay.” |
+| 9 | **Clarify Ambiguities** | Belirsiz cevapları netleştir. | ✅ “Data is in CSV, what next?” <br> ❌ “The next step depends on your data format.” (AI cevabı) |
+| 10 | **Balance Detail & Brevity** | Ne çok uzun ne çok kısa prompt yaz. | ✅ “Recommended diet for active 3-year-old outdoor cat?” <br> ❌ “My cat Whiskers is 3 years old, loves outside... what food?” |
+
