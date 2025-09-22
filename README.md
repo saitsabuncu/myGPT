@@ -27,3 +27,13 @@ Below is a quick reference table summarizing the best practices in prompt engine
 | 9 | **Clarify Ambiguities** | Belirsiz cevapları netleştir. | ✅ “Data is in CSV, what next?” <br> ❌ “The next step depends on your data format.” (AI cevabı) |
 | 10 | **Balance Detail & Brevity** | Ne çok uzun ne çok kısa prompt yaz. | ✅ “Recommended diet for active 3-year-old outdoor cat?” <br> ❌ “My cat Whiskers is 3 years old, loves outside... what food?” |
 
+## 📌 Prompt Priming – Quick Reference
+
+Aşağıdaki tablo, prompt priming tekniğinin yapay zekâ yanıtlarını nasıl etkilediğini örneklerle göstermektedir.
+
+| # | Tür | Açıklama | Örnek Prompt |
+|---|-----|----------|--------------|
+| 1 | **Without Creative Writing Priming** | Bağlam verilmez, AI genel ve klişe içerik üretir. | ❌ “Write a story about dragons and elves.” |
+| 2 | **Creative Writing Priming** | Ayrıntılı sahne, karakter ve olay örgüsü verilir; AI daha yaratıcı ve özgün cevap üretir. | ✅ “Imagine a mystical world where dragons and elves coexist… Write a story about a young elf named Elara.” |
+| 3 | **Without Technical Explanation Priming** | Genel ve teknik açıklama gelir; hedef kitleye uygun olmayabilir. | ❌ “Explain machine learning.” |
+| 4 | **Technical Explanation Priming** | Hedef kitle, tarz ve dil belirtilir; AI daha anlaşılır ve uyumlu cevap üretir. | ✅ “Explain machine learning as if teaching high school students, using simple analogies.” |
