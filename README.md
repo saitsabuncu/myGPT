@@ -37,3 +37,15 @@ Aşağıdaki tablo, prompt priming tekniğinin yapay zekâ yanıtlarını nasıl
 | 2 | **Creative Writing Priming** | Ayrıntılı sahne, karakter ve olay örgüsü verilir; AI daha yaratıcı ve özgün cevap üretir. | ✅ “Imagine a mystical world where dragons and elves coexist… Write a story about a young elf named Elara.” |
 | 3 | **Without Technical Explanation Priming** | Genel ve teknik açıklama gelir; hedef kitleye uygun olmayabilir. | ❌ “Explain machine learning.” |
 | 4 | **Technical Explanation Priming** | Hedef kitle, tarz ve dil belirtilir; AI daha anlaşılır ve uyumlu cevap üretir. | ✅ “Explain machine learning as if teaching high school students, using simple analogies.” |
+
+## 📌 General Prompt Frameworks – Quick Reference
+
+Aşağıdaki tablo, etkili prompt oluşturmak için kullanılabilecek genel çerçeveleri (frameworks) örneklerle özetlemektedir.
+
+| # | Framework | Açıklama | Örnek Prompt |
+|---|-----------|----------|--------------|
+| 1 | **RGC (Role, Goals, Context)** | AI’nın rolünü, hedefi ve bağlamı netleştirir. | ✅ “You are a travel advisor. I'm planning a trip to Japan for two weeks in April. My goals are to experience traditional Japanese culture and visit cherry blossom sites. What itinerary would you suggest?” |
+| 2 | **Constraint-Led Framework** | Cevap için belirli kısıtlamalar koyarak yaratıcılığı yönlendirir. | ✅ “Write a poem about the ocean, but use only four-line stanzas and avoid the words 'sea', 'water', or 'blue'.” |
+| 3 | **Open-Ended Exploration** | Geniş, yaratıcı ve farklı olasılıkları araştırmayı teşvik eder. | ✅ “What might be some unexpected consequences of colonizing Mars?” |
+| 4 | **Skill Demonstration** | AI’dan belirli bir becerisini veya uzmanlığını sergilemesini ister. | ✅ “As a chess instructor, analyze the 1972 game between Bobby Fischer and Boris Spassky, focusing on key moves and strategies.” |
+| 5 | **Hypothetical Scenario** | Varsayımsal senaryolar üzerinden olası sonuçları keşfeder. | ✅ “Imagine if the internet was shut down worldwide for a month. How might this affect global communication and business?” |
