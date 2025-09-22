@@ -67,3 +67,32 @@ Aşağıdaki tablo, farklı kullanım amaçlarına göre odaklı prompt framewor
 | 9 | **Personal Advice** | Kişisel duruma özel öneriler almak | ✅ “I'm a college student majoring in computer science and feeling overwhelmed. How can I effectively manage my time and reduce stress?” |
 | 10 | **Interactive Storytelling** | Kullanıcı etkileşimine dayalı hikâyeler oluşturmak | ✅ “Start a mystery story set in an abandoned mansion. I'll tell you what choices the main character makes at key points.” |
 
+
+## 📌 Prompt Revisions – Quick Reference  
+
+Aşağıdaki tablo, farklı revizyon türlerinde AI’dan neler istenebileceğini örneklerle özetlemektedir.  
+
+| #  | Framework | Amaç | Örnek Prompt | AI’dan Ne İsteniyor? |
+|----|-----------|------|--------------|----------------------|
+| 1  | **Highlight Keywords** | Anahtar terimleri kalın yazarak vurgulamak | ✅ “Please bold the key terms that are most critical in this text…” | Kritik kelimeleri **bold** yapması |
+| 2  | **Organize by Criteria** | İçeriği ölçütlere göre düzenlemek | ✅ “Arrange the content chronologically and categorize by date, location, and cost…” | Tarih, yer, maliyet gibi kategorilere ayırması |
+| 3  | **Generate Unique Ideas** | Sıradışı, yaratıcı öneriler üretmek | ✅ “Can you provide some creative and less common suggestions for…” | Alışılmışın dışında fikirler sunması |
+| 4  | **Add Emojis** | Metni emojilerle renklendirmek | ✅ “Add suitable emojis to enhance the expressiveness of this text…” | İçeriğe uygun emoji eklemesi |
+| 5  | **Simplify for Young Audience** | Çocuklara uygun basit açıklamalar yapmak | ✅ “Could you explain this in a way that a 5-year-old would easily understand…” | Konuyu çocuk seviyesinde basitleştirmesi |
+| 6  | **Format as Table** | Bilgiyi tabloya dönüştürmek | ✅ “Please present this data in a table, sorting it into relevant categories…” | Veriyi tablo halinde düzenlemesi |
+| 7  | **Expert Viewpoint** | Uzman bakış açısıyla yazmak | ✅ “Rewrite this from the perspective of an expert in the field…” | Profesyonel ve teknik bir üslupla yeniden yazması |
+| 8  | **Adjust Tone** | Üslubu değiştirmek (resmi/samimi) | ✅ “Please modify this to sound more formal/informal…” | Dil tonunu hedef kitleye uygun ayarlaması |
+| 9  | **Fix Grammar & Replace Terms** | Hataları düzeltmek, kelime değiştirmek | ✅ “Correct any grammar mistakes and substitute the following terms with…” | Dilbilgisini düzeltmesi + verilen kelimeleri değiştirmesi |
+| 10 | **Add Humor/Personality** | Metni eğlenceli hale getirmek | ✅ “Can you rewrite this to make it more engaging and humorous…” | Daha esprili, eğlenceli bir dille yazması |
+| 11 | **Specific Perspective/Voice** | Belirli rol/karakter sesiyle yazmak | ✅ “Compose this from the viewpoint of [specified role/character]…” | Belirlenen kişi/rol bakış açısıyla yazması |
+| 12 | **Condense to Tweet** | İçeriği tweet’e sığdırmak | ✅ “Summarize this information to fit into a tweet (280 characters)…” | İçeriği 280 karaktere özetlemesi |
+| 13 | **Three-Part Summary** | Üç bölümlük özet yapmak | ✅ “Divide this into a three-part summary…” | İçeriği giriş, gelişme, sonuç gibi 3 parçaya bölmesi |
+| 14 | **Comparative Analysis** | Karşılaştırma yapmak | ✅ “Compare and contrast the key elements…” | Benzerlik ve farklılıkları belirtmesi |
+| 15 | **10 Key Takeaways** | En önemli 10 noktayı çıkarmak | ✅ “What are the 10 most important points…” | 10 maddelik özet liste oluşturması |
+| 16 | **Expert Review** | Profesyonel geliştirme önerileri vermek | ✅ “From a professional standpoint, how would you suggest enhancing this…” | İçeriği değerlendirip iyileştirme tavsiyeleri sunması |
+| 17 | **Bullet Points** | Madde işaretleriyle düzenlemek | ✅ “Please format this information into a clear, bullet-pointed list…” | İçeriği maddeler halinde listelemesi |
+| 18 | **Translate** | Başka dile çevirmek | ✅ “Could you translate this text into [specified language]…” | Metni hedef dile çevirip anlamı koruması |
+| 19 | **Visual/Infographic** | Görselleştirmek | ✅ “Turn this data into a visual infographic…” | İçeriği infografik/şema taslağına dönüştürmesi |
+| 20 | **Executive Summary** | Yönetici özeti hazırlamak | ✅ “Compose a concise executive summary…” | Uzun içeriği kısa bir özet halinde sunması |
+| 21 | **FAQs** | SSS listesi oluşturmak | ✅ “Can you create a list of frequently asked questions…” | İçerikten olası sorular üretip yanıtlaması |
+| 22 | **Persuasive Argument** | İkna edici argüman yazmak | ✅ “Formulate a compelling argument either in support of or against…” | Belirtilen görüşü destekleyen/karşıt argüman geliştirmesi |
